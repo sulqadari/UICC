@@ -1,0 +1,18 @@
+{
+    "java.project.sourcePaths": ["src"],
+
+    "java.project.outputPath": "bin",
+    
+    "java.project.referencedLibraries": [
+        "C:/Java/jc304/lib/*.jar",
+        "C:/Java/etsi_102241v17/uicc-api-for-java-card-REL-17_1.jar",
+        "C:/Java/etsi_131130v17/usim-api-for-java-card-REL-17_2.jar",
+        "lib/**/*.jar",
+    ],
+    "java.configuration.runtimes": [
+        {
+            "name":"JavaSE-1.8",
+            "path":"C:/Java/jdk_8"
+        }
+    ]
+}
